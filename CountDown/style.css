@@ -1,0 +1,48 @@
+body{
+	text-align:center;
+	background-color: #131313;
+}
+
+h1{
+	color: #F5F5F5;
+	font-size: 40px;
+}
+table{
+	margin: auto;
+}
+th{
+	color: #FFFF;
+}
+
+input{
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+button{
+	min-width: 120px;
+	margin: 20px 10px;
+	padding: 10px;
+	font-size: 20px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	font-weight:600 ;
+}
+
+.countdown{
+	display: flex;
+	justify-content: center;
+}
+
+.heading{
+	color: #FFFFFF;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.time{
+	background-color: #131313;
+	color: #FFFFFF;
+	font-size: 100px;
+	width: 100px;
+}
